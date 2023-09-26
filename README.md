@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"/>
 </div>
 
+![snake gif](https://github.com/Maciel47/Maciel47/blob/output/github-contribution-grid-snake.svg)
+
 ### 🖊 Contato
 <div>
   <a href="https://www.linkedin.com/in/mmacielar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
