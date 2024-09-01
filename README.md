@@ -4,7 +4,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maciel47&theme=discord_old_blurple&show_icons=true"/>
 </div>
 
-### 📚 Tecnologias
+### 📖 Tecnologias que estou conhecendo/trabalhando no momento
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="100" height="100"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="100" height="100"/>
+</div>
+
+
+### 📚 Tecnologias que utilizei anteriormente
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="100" height="100"/>
