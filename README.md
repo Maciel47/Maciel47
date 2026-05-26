@@ -1,8 +1,4 @@
 ## Olá, mundo!  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel47&layout=compact&theme=discord_old_blurple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maciel47&theme=discord_old_blurple&show_icons=true"/>
-</div>
 
 ### 📖 Tecnologias que estou conhecendo/trabalhando no momento
 <div align="center">
